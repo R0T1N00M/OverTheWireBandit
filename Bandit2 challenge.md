@@ -19,4 +19,4 @@ ssh bandit.labs.overthewire.org -p 2220 -l bandit (whatever number)
 
 **Script for lvl**
 <br>
-[Bandit1 -> 2 Script](https://github.com/R0T1N00M/OverTheWireBandit/blob/main/Bandit0skip.py) 
+[Bandit1 -> 2 Script](https://github.com/R0T1N00M/OverTheWireBandit/blob/main/Bandit1-2skip.py)

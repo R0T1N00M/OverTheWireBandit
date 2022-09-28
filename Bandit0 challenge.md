@@ -9,10 +9,7 @@ Connect is bandit.labs.overthewire.org, on port 2220
 <br>
 Put Username and password "bandit0"
 
-*Fast way to do this:*
+*Fast way to logining in:*
 <br>
 ssh bandit.labs.overthewire.org -p 2220 -l bandit (whatever number)
 
-**Script for lvl**
-<br>
-[Bandit0 Script](https://github.com/R0T1N00M/OverTheWireBandit/blob/main/Bandit0skip.py) 

@@ -4,7 +4,7 @@ The goal of this level is for you to log into the game using SSH. The host to wh
 **Step 1**
 Connect is bandit.labs.overthewire.org, on port 2220 
 
-**Step 2**
+**Step 2**\n
 Put Username and password "bandit0"
 
 * Fast way to do this*

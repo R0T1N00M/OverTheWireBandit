@@ -3,7 +3,7 @@ The password for the next level is stored in a file called readme located in the
 
 **OverTheWire Levels**
 <br>
-[Overthewire.org](https://overthewire.org/wargames/bandit/bandit0.html)
+[Overthewire.org](https://overthewire.org/wargames/bandit/bandit1.html)
 
 **Step 1:**
 <br>

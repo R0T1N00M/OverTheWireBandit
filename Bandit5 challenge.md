@@ -8,7 +8,7 @@ The password for the next level is stored in the only human-readable file in the
 
 **Solution**
 <br>
-Do a 'ls -la', change directory or 'cd' to "inhere" directory, look through each file for human-readable.
+Do a 'ls -la', change directory or 'cd' to "inhere" directory, look through each file for human-readable. (Fyi, look for ASCII text)
 
 **Step 1:**
 <br>

@@ -7,7 +7,7 @@ The password for the next level is stored in a file called - located in the home
 
 **Solution**
 <br>
-
+Do a 'ls -la', cat the '-' file. (Fyi, do a "./-" on the file bc it's a special charcter.) 
 
 **Step 1:**
 <br>

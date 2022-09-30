@@ -7,7 +7,7 @@ The password for the next level is stored in a file called **spaces in this file
 
 **Solution**
 <br>
-Do a 'ls -la', cat the 'spaces in this filename' file. (Fyi, put "" on the file bc it has spaces in the name.) 
+Do a 'ls -la', cat the 'spaces in this filename' file. (Fyi, put "" or '' on the file bc it has spaces in the name.) 
 
 **Step 1:**
 <br>

@@ -5,6 +5,10 @@ The password for the next level is stored in a file called readme located in the
 <br>
 [Overthewire.org](https://overthewire.org/wargames/bandit/bandit2.html)
 
+**Solution**
+<br>
+
+
 **Step 1:**
 <br>
 ls -la

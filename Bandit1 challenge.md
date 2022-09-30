@@ -5,6 +5,10 @@ The password for the next level is stored in a file called readme located in the
 <br>
 [Overthewire.org](https://overthewire.org/wargames/bandit/bandit1.html)
 
+**Solution**
+<br>
+Do a 'ls -la' and 'cat' the readme
+
 **Step 1:**
 <br>
 ls -la
@@ -15,7 +19,7 @@ cat readme
 
 *Fast way to logining in:*
 <br>
-ssh bandit.labs.overthewire.org -p 2220 -l bandit (whatever number)
+ssh bandit.labs.overthewire.org -p 2220 -l bandit (whatever lvl you are on)
 
 **Script for lvl**
 <br>

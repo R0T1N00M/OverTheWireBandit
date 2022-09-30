@@ -5,6 +5,10 @@ The goal of this level is for you to log into the game using SSH. The host to wh
 <br>
 [Overthewire.org](https://overthewire.org/wargames/bandit/bandit0.html)
 
+**Solution**
+<br>
+Login in to bandit0 using the given info "ssh bandit.labs.overthewire.org -p 2220 -l bandit0"
+
 **Step 1:**
 <br>
 Connect is bandit.labs.overthewire.org, on port 2220 
@@ -15,4 +19,4 @@ Put Username and password "bandit0"
 
 *Fast way to logining in:*
 <br>
-ssh bandit.labs.overthewire.org -p 2220 -l bandit (whatever number)
+ssh bandit.labs.overthewire.org -p 2220 -l bandit (whatever lvl you on)

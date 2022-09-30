@@ -22,4 +22,5 @@ cat 'spaces in this filename'
 ssh bandit.labs.overthewire.org -p 2220 -l bandit (whatever lvl you are on)
 
 **Script for lvl**
-[Bandit2->3 script]()
+<br>
+[Bandit2->3 Script](https://github.com/R0T1N00M/OverTheWireBandit/blob/main/Bandit2-3skip.py)

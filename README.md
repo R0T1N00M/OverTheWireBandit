@@ -15,4 +15,4 @@ Walkthroughs and a little bit of scripts
 <br>
 [Bandit4 -> Bandit5](https://github.com/R0T1N00M/OverTheWireBandit/blob/main/Bandit5%20challenge.md)
 <br>
-[Bandit5 -> Bandit6]()
+[Bandit5 -> Bandit6](https://github.com/R0T1N00M/OverTheWireBandit/blob/main/Bandit6%20challenge.md)

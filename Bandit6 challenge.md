@@ -8,11 +8,11 @@ The password for the next level is stored in a file somewhere under the inhere d
 
 **OverTheWire Levels**
 <br>
-[Overthewire.org](https://overthewire.org/wargames/bandit/bandit4.html)
+[Overthewire.org](https://overthewire.org/wargames/bandit/bandit6.html)
 
 **Solution**
 <br>
-Do a 'ls -la', change directory or 'cd' to "inhere" directory, cat the hidden file. (Fyi, without ls -la you can't see hiddin files.)
+Do a 'ls -la', change directory or 'cd' to "inhere" directory, sort through files for the properties then 'cat' it. (Fyi, 'find' is the main key.)
 
 **Step 1:**
 <br>
@@ -24,7 +24,12 @@ cd inhere
 
 **Step 3:**
 <br>
-cat .hidden
+find -type f -size 1033c ! -executable
+<br>
+('-type f' finds files, '-size 1033c' find files with 1033 bytes, '! -executable' not executable)
+
+**Step 4:**
+cat ./maybehere07/.file2
 
 *Fast way to logining in:*
 <br>

@@ -1,4 +1,5 @@
 # Bandit3 -> 4 Challenge
+**Task:**
 The password for the next level is stored in a hidden file in the inhere directory.
 
 **OverTheWire Levels**

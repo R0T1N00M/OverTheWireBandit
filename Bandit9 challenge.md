@@ -8,7 +8,7 @@ The password for the next level is stored in the file data.txt and is the only l
 
 **Solution**
 <br>
-Do a 'ls -la', and 'cat' the 'data.txt' file while also getting the correct and only password(Fyi, 'sort' and 'uniq' is the main key.)
+Do a 'ls -la', and look through the 'data.txt' file while also getting the correct and only password(Fyi, 'sort' and 'uniq' is the main key.)
 
 **Step 1:**
 <br>

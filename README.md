@@ -2,7 +2,7 @@
 Walkthroughs and a little bit of scripts
 <br>
 (Scripts on this page works best with [Replit](https://replit.com/~))
-<img align = "right" src = "https://github.com/R0T1N00M/OverTheWireBandit/blob/main/mokey%20stuff.jpg" width=200>
+<img align = "right" src = "https://github.com/R0T1N00M/OverTheWireBandit/blob/main/mokey%20stuff.jpg" width=300>
 <br>
 <br>
 **Bandit0 ----> Bandit10**

@@ -1,5 +1,7 @@
 # OverTheWireBandit
 Walkthroughs and a little bit of scripts
+<br>
+(Scripts on this page works best with [Replit]())
 
 **Bandit0 ----> Bandit10**
 <br>

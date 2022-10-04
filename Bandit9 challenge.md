@@ -18,7 +18,7 @@ ls -la
 <br>
 sort data.txt | uniq -u
 <br>
-('sort' sorts through files, 'uniq -u' finds unique lines)
+('sort' sorts through a file, 'uniq -u' finds unique lines in a file)
 
 **Script for lvl**
 <br>

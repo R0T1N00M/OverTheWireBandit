@@ -29,6 +29,7 @@ find / -type f -user bandit7 -group bandit6 -size 33c 2>/dev/null
 ('-type f' finds files, '-user' find users, '-group' find group, '-size 33c' finds 33 bytes, '2>/dev/null' stops errors from showing)
 
 **Step 4:**
+<br>
 cat /var/lib/dpkg/info/bandit7.password
 
 *Fast way to logining in:*

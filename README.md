@@ -29,4 +29,6 @@ Walkthroughs and a little bit of scripts
 <br>
 **Bandit10 ----> Bandit20**
 <br>
-[Bandit10 -> Bandit11]()
+[Bandit10 -> Bandit11](https://github.com/R0T1N00M/OverTheWireBandit/blob/main/Bandit11%20challenge.md)
+<br>
+[Bandit11 -> Bandit12]()

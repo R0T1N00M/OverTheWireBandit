@@ -22,4 +22,4 @@ strings data.txt | grep ===
 
 **Script for lvl**
 <br>
-[Bandit8 -> Bandit9 Script](https://github.com/R0T1N00M/OverTheWireBandit/blob/main/Bandit8-9skip.py)
+[Bandit9 -> Bandit10 Script](https://github.com/R0T1N00M/OverTheWireBandit/blob/main/Bandit9-10skip.py)

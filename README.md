@@ -1,7 +1,7 @@
 # OverTheWireBandit
 Walkthroughs and a little bit of scripts
 <br>
-(Scripts on this page works best with [Replit]())
+(Scripts on this page works best with [Replit](https://replit.com/~))
 
 **Bandit0 ----> Bandit10**
 <br>
@@ -23,4 +23,6 @@ Walkthroughs and a little bit of scripts
 <br>
 [Bandit7 -> Bandit8](https://github.com/R0T1N00M/OverTheWireBandit/blob/main/Bandit8%20challenge.md)
 <br>
-[Bandit8 -> Bandit9]()
+[Bandit8 -> Bandit9](https://github.com/R0T1N00M/OverTheWireBandit/blob/main/Bandit9%20challenge.md)
+<br>
+[Bandit9 -> Bandit10]()

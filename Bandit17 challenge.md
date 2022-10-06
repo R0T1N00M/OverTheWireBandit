@@ -84,6 +84,7 @@ echo '-----BEGIN RSA PRIVATE KEY-----
 > -----END RSA PRIVATE KEY-----' >> sshkey.private
 <br>
 (The RSA Private Key was from Step 4 and the '>> sshkey.private' means the RSA key is being moved to 'sshkey.private')
+<br>
 
 **Step 8:**
 <br>

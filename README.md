@@ -45,3 +45,5 @@ Walkthroughs and a little bit of scripts
 [Bandit15 -> Bandit16](https://github.com/R0T1N00M/OverTheWireBandit/blob/main/Bandit16%20challenge.md)
 <br>
 [Bandit16 -> Bandit17](https://github.com/R0T1N00M/OverTheWireBandit/blob/main/Bandit17%20challenge.md)
+<br>
+[Bandit17 -> Bandit18]()

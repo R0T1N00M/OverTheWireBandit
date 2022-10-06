@@ -18,6 +18,7 @@ The password for the next level is stored in /etc/bandit_pass/bandit14 and can o
 For this level, you don’t get the next password, but you get a private SSH key that can be used to log into the next level. 
 Note: localhost is a hostname that refers to the machine you are working on
 <br>
+<br>
 **OverTheWire Levels**
 <br>
 [Overthewire.org](https://overthewire.org/wargames/bandit/bandit14.html)

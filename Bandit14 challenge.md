@@ -1,12 +1,17 @@
 # Bandit13 -> 14 Challenge
 
-**Username**
+**Username:**
+<br>
 <br>
 bandit13
 <br>
-**Password**
+<br>
+**Password:**
+<br>
 <br>
 wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw
+<br>
+<br>
 
 **Task:**
 The password for the next level is stored in /etc/bandit_pass/bandit14 and can only be read by user bandit14. 

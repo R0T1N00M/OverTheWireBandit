@@ -36,7 +36,7 @@ ssh -i sshkey.private bandit14@bandit.labs.overthewire.org -p 2220
 <br>
 ('-i' stands for “interactive.”)
 
-*Fast way to logining in:*
+*Fast way to logging in:*
 <br>
 ssh bandit.labs.overthewire.org -p 2220 -l bandit (whatever lvl you are on)
 

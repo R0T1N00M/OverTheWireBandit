@@ -23,7 +23,7 @@ The password for the next level can be retrieved by submitting the password of t
 
 **Solution**
 <br>
-Do a 'ls -la', and use the current lvl password to find the password for the next lvl . (Fyi, we are going to use -i)
+Do a 'ls -la', and use the current lvl password to find the password for the next lvl . (Fyi, we are going to use 'nc')
 
 **Step 1:**
 <br>

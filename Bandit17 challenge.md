@@ -82,7 +82,9 @@ echo '-----BEGIN RSA PRIVATE KEY-----
 > dxviW8+TFVEBl1O4f7HVm6EpTscdDxU+bCXWkfjuRb7Dy9GOtt9JPsX8MBTakzh3
 > vBgsyi/sN3RqRBcGU40fOoZyfAMT8s1m/uYv52O6IgeuZ/ujbjY=
 > -----END RSA PRIVATE KEY-----' >> sshkey.private
+<br>
 (The RSA Private Key was from Step 4 and the '>> sshkey.private' means the RSA key is being moved to 'sshkey.private')
+<br>
 <br>
 
 **Step 8:**

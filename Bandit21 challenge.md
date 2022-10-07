@@ -23,7 +23,7 @@ NOTE: Try connecting to your own network daemon to see if it works as you thin
 <br>
 **OverTheWire Levels**
 <br>
-[Overthewire.org](https://overthewire.org/wargames/bandit/bandit20.html)
+[Overthewire.org](https://overthewire.org/wargames/bandit/bandit21.html)
 
 **Solution**
 <br>

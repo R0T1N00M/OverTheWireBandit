@@ -47,11 +47,11 @@ Enter current lvl password after doing Step 3
 
 **Step 5:**
 <br>
-mkdir /tmp/mylvl16
+mkdir /tmp/"Whatever name you make"
 
 **Step 6:**
 <br>
-cd /tmp/mylvl16
+cd /tmp/"Whatever name you make"
 
 **Step 7:**
 <br>

@@ -9,7 +9,7 @@
 **Password:**
 <br>
 <br>
-**JQttfApK4SeyHwDlI9SXGR50qclOAil1**
+**XXXXXXXXXXXXXXXXXXXXXXXXXXXAil1**
 <br>
 <br>
 
@@ -43,7 +43,7 @@ openssl s_client -connect localhost:31790
 
 **Step 4:**
 <br>
-Enter current lvl password 'JQttfApK4SeyHwDlI9SXGR50qclOAil1' after doing Step 3
+Enter current lvl password after doing Step 3
 
 **Step 5:**
 <br>

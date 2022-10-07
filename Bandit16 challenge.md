@@ -9,7 +9,7 @@
 **Password:**
 <br>
 <br>
-**jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt**
+**XXXXXXXXXXXXXXXXXXXXXXXXXXX6tnt**
 <br>
 <br>
 
@@ -39,7 +39,7 @@ openssl s_client -connect localhost:30001
 
 **Step 3:**
 <br>
-Enter current lvl password 'jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt' after doing Step 2
+Enter current lvl password after doing Step 2
 
 *Fast way to logging in:*
 <br>

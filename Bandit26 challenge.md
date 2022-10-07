@@ -1,5 +1,12 @@
 # Bandit25 -> 26 Challenge
 
+**MUST READ:**
+<br>
+<br>
+After completing the lvl don't logout yet!
+<br>
+<br>
+
 **Username:**
 <br>
 <br>

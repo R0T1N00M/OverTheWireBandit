@@ -49,3 +49,5 @@ Walkthroughs and a little bit of scripts
 [Bandit17 -> Bandit18](https://github.com/R0T1N00M/OverTheWireBandit/blob/main/Bandit18%20challenge.md)
 <br>
 [Bandit18 -> Bandit19](https://github.com/R0T1N00M/OverTheWireBandit/blob/main/Bandit19%20challenge.md)
+<br>
+[Bandit19 -> Bandit20](https://github.com/R0T1N00M/OverTheWireBandit/blob/main/Bandit19%20challenge.md)

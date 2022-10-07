@@ -56,7 +56,7 @@ for i in {0000..9999}
 <br>
 do
 <br>
-       echo XXXXXXXXXXXXXXXXXXXXXXXXXXXGGar $i >> possibilities.txt
+        _echo XXXXXXXXXXXXXXXXXXXXXXXXXXXGGar $i >> possibilities.txt
 <br>
 done
 <br>

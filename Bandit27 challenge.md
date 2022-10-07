@@ -45,7 +45,8 @@ Shrink your console
 (This helps with the process)
 
 **Step 2:**
-Press 'v'
+<br>
+Press ':v'
 <br>
 (After it say's "More")
 

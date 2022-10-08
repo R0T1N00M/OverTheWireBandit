@@ -1,4 +1,18 @@
 # Bandit2 -> 3 Challenge
+
+**Username:**
+<br>
+<br>
+**bandit2**
+<br>
+<br>
+**Password:**
+<br>
+<br>
+**XXXXXXXXXXXXXXXXXXXXXXXXXXXlgzi**
+<br>
+<br>
+
 **Task:**
 The password for the next level is stored in a file called **spaces in this filename** located in the home directory
 

@@ -81,3 +81,5 @@ Walkthroughs and a little bit of scripts
 [Bandit30 -> Bandit31](https://github.com/R0T1N00M/OverTheWireBandit/blob/main/Bandit31%20challenge.md)
 <br>
 [Bandit31 -> Bandit32](https://github.com/R0T1N00M/OverTheWireBandit/blob/main/Bandit32%20challenge.md)
+<br>
+[Bandit32 -> Bandit33](https://github.com/R0T1N00M/OverTheWireBandit/blob/main/Bandit32%20challenge.md)

@@ -18,6 +18,7 @@
 There is a git repository at ssh://bandit27-git@localhost/home/bandit27-git/repo. 
 The password for the user bandit27-git is the same as for the user bandit27.
 <br>
+
 **OverTheWire Levels**
 <br>
 [Overthewire.org](https://overthewire.org/wargames/bandit/bandit28.html)

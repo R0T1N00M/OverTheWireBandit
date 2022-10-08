@@ -1,4 +1,18 @@
 # Bandit7 -> 8 Challenge
+
+**Username:**
+<br>
+<br>
+**bandit7**
+<br>
+<br>
+**Password:**
+<br>
+<br>
+**XXXXXXXXXXXXXXXXXXXXXXXXXXXv99S**
+<br>
+<br>
+
 **Task:**
 The password for the next level is stored in the file data.txt next to the word millionth
 <br>

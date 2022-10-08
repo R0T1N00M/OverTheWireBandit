@@ -1,4 +1,18 @@
 # Bandit5 -> 6 Challenge
+
+**Username:**
+<br>
+<br>
+**bandit5**
+<br>
+<br>
+**Password:**
+<br>
+<br>
+**XXXXXXXXXXXXXXXXXXXXXXXXXXXEeqR**
+<br>
+<br>
+
 **Task:**
 The password for the next level is stored in a file somewhere under the inhere directory and has all of the following properties:
 <br>

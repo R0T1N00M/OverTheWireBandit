@@ -1,4 +1,18 @@
 # Bandit8 -> 9 Challenge
+
+**Username:**
+<br>
+<br>
+**bandit8**
+<br>
+<br>
+**Password:**
+<br>
+<br>
+**XXXXXXXXXXXXXXXXXXXXXXXXXXXrBvP**
+<br>
+<br>
+
 **Task:**
 The password for the next level is stored in the file data.txt and is the only line of text that occurs only once
 

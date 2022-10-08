@@ -39,7 +39,7 @@ mkdir /tmp/MyDIR29
 
 **Step 3:**
 <br>
-cd /tmp/myDIR29
+cd /tmp/MyDIR29
 <br>
 
 **Step 4:**

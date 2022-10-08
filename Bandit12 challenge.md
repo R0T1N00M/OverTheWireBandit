@@ -1,4 +1,18 @@
 # Bandit11 -> 12 Challenge
+
+**Username:**
+<br>
+<br>
+**bandit11**
+<br>
+<br>
+**Password:**
+<br>
+<br>
+**XXXXXXXXXXXXXXXXXXXXXXXXXXXXHBM**
+<br>
+<br>
+
 **Task:**
 The password for the next level is stored in the file data.txt, where all lowercase (a-z) and uppercase (A-Z) letters have been rotated by 13 positions
 

@@ -3,13 +3,13 @@
 **Username:**
 <br>
 <br>
-**bandit1**
+**bandit0**
 <br>
 <br>
 **Password:**
 <br>
 <br>
-**XXXXXXXXXXXXXXXXXXXXXXXXXXXVXjL**
+**bandit0**
 <br>
 <br>
 

@@ -1,4 +1,19 @@
 # Bandit6 -> 7 Challenge
+
+**Username:**
+<br>
+<br>
+**bandit6**
+<br>
+<br>
+**Password:**
+<br>
+<br>
+**XXXXXXXXXXXXXXXXXXXXXXXXXXXKqJU**
+<br>
+<br>
+
+
 **Task:**
 The password for the next level is stored somewhere on the server and has all of the following properties:
 <br>

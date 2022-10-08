@@ -3,7 +3,7 @@
 **Username:**
 <br>
 <br>
-**bandit18**
+**ssh -i sshkey.private bandit17@bandit.labs.overthewire.org -p 2220**
 <br>
 <br>
 **Password:**

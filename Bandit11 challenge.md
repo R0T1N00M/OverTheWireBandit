@@ -1,4 +1,18 @@
 # Bandit10 -> 11 Challenge
+
+**Username:**
+<br>
+<br>
+**bandit10**
+<br>
+<br>
+**Password:**
+<br>
+<br>
+**XXXXXXXXXXXXXXXXXXXXXXXXXXXyp6s**
+<br>
+<br>
+
 **Task:**
 The password for the next level is stored in the file data.txt, which contains base64 encoded data
 

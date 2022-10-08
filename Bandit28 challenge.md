@@ -39,6 +39,7 @@ mkdir /tmp/myDIR27
 <br>
 cd /tmp/myDIR27
 <br>
+
 **Step 4:**
 <br>
 git clone ssh://bandit27-git@localhost:2220/home/bandit27-git/repo

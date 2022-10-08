@@ -1,4 +1,18 @@
 # Bandit3 -> 4 Challenge
+
+**Username:**
+<br>
+<br>
+**bandit3**
+<br>
+<br>
+**Password:**
+<br>
+<br>
+**XXXXXXXXXXXXXXXXXXXXXXXXXXXlAiG**
+<br>
+<br>
+
 **Task:**
 The password for the next level is stored in a hidden file in the inhere directory.
 

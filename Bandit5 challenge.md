@@ -1,4 +1,18 @@
 # Bandit4 -> 5 Challenge
+
+**Username:**
+<br>
+<br>
+**bandit4**
+<br>
+<br>
+**Password:**
+<br>
+<br>
+**XXXXXXXXXXXXXXXXXXXXXXXXXXX6xNe**
+<br>
+<br>
+
 **Task:**
 The password for the next level is stored in the only human-readable file in the inhere directory. Tip: if your terminal is messed up, try the “reset” command.
 

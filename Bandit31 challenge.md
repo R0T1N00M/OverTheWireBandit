@@ -22,7 +22,7 @@ Clone the repository and find the password for the next level.
 <br>
 **OverTheWire Levels**
 <br>
-[Overthewire.org](https://overthewire.org/wargames/bandit/bandit30.html)
+[Overthewire.org](https://overthewire.org/wargames/bandit/bandit31.html)
 
 **Solution**
 <br>

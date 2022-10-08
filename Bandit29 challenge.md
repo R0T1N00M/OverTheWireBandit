@@ -36,16 +36,19 @@ ls -la
 <br>
 mkdir /tmp/MyDIR28
 <br>
+
+**Step 3:**
+<br>
 cd /tmp/myDIR27
 <br>
 
-**Step 3:**
+**Step 4:**
 <br>
 git clone ssh://bandit28-git@localhost:2220/home/bandit28-git/repo
 <br>
 (Type 'yes', then put current lvl password in.)
 
-**Step 4:**
+**Step 5:**
 <br>
 ls -la
 <br>
